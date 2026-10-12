@@ -675,7 +675,7 @@ window.SHAN_LESSONS = {
       "detail": {
         "slug": "final-ny",
         "title": "Final ၺ်",
-        "intro": "ၺ် combines with vowel signs to spell an ending that glides toward i. Compare the ten vowel combinations below. The final spelling is different from the initial consonant ၺ (nya).",
+        "intro": "ၺ် combines with vowel signs to spell an ending that glides toward i. Compare the seven vowel combinations below. The final spelling is different from the initial consonant ၺ (nya).",
         "items": [
           {
             "id": "final-ny-4",
@@ -688,24 +688,6 @@ window.SHAN_LESSONS = {
             "text": "ဢၢၺ်",
             "label": "AAi",
             "note": "ဢ + ၢၺ် - vowel-ending spelling example"
-          },
-          {
-            "id": "final-ny-6",
-            "text": "ဢိၺ်",
-            "label": "Aei",
-            "note": "ဢ + ိၺ် - vowel-ending spelling example"
-          },
-          {
-            "id": "final-ny-7",
-            "text": "ဢဵၺ်",
-            "label": "Aei",
-            "note": "ဢ + ဵၺ် - vowel-ending spelling example"
-          },
-          {
-            "id": "final-ny-8",
-            "text": "ဢႅၺ်",
-            "label": "EEi",
-            "note": "ဢ + ႅၺ် - vowel-ending spelling example"
           },
           {
             "id": "final-ny-0",
@@ -1381,24 +1363,6 @@ window.SHAN_LESSONS = {
       "text": "ဢၢၺ်",
       "label": "AAi",
       "note": "ဢ + ၢၺ် - vowel-ending spelling example"
-    },
-    {
-      "id": "final-ny-6",
-      "text": "ဢိၺ်",
-      "label": "Aei",
-      "note": "ဢ + ိၺ် - vowel-ending spelling example"
-    },
-    {
-      "id": "final-ny-7",
-      "text": "ဢဵၺ်",
-      "label": "Aei",
-      "note": "ဢ + ဵၺ် - vowel-ending spelling example"
-    },
-    {
-      "id": "final-ny-8",
-      "text": "ဢႅၺ်",
-      "label": "EEi",
-      "note": "ဢ + ႅၺ် - vowel-ending spelling example"
     },
     {
       "id": "final-ny-0",
