@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Drag and Drop Game · Tai Learning</title>
+  <meta name="description" content="Learn Shan letters, vowels, final consonants, medial clusters, tones, numbers and everyday greetings.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Padauk:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="lessons.js" defer></script>
+  <script src="voices.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body data-page="drag-and-drop">
+  <header>
+    <div class="topbar">
+      <a class="brand" href="index.html">
+        <span class="mark" aria-hidden="true">◈</span>Tai Learning
+      </a>
+      <span class="shan wordmark" lang="shn">လိၵ်ႈတႆး</span>
+      <button type="button" class="menu-button" aria-expanded="false" aria-controls="navigation">Topics</button>
+    </div>
+    <nav id="navigation" aria-label="Learning topics">
+      <a href="index.html" data-nav="index">Home</a>
+      <a href="alphabet.html" data-nav="alphabet">Alphabet</a>
+      <a href="vowels.html" data-nav="vowels">Vowels</a>
+      <a href="final-consonants.html" data-nav="final-consonants">Final Consonants</a>
+      <a href="medial-clusters.html" data-nav="medial-clusters">Medial Clusters</a>
+      <a href="tone.html" data-nav="tone">Tone</a>
+      <a href="number.html" data-nav="number">Number</a>
+      <a href="practicing.html" data-nav="practicing">Practicing</a>
+      <a href="conversation.html" data-nav="conversation">Conversation</a>
+      <a href="drag-and-drop.html" data-nav="drag-and-drop" aria-current="page">Drag and Drop Game</a>
+    </nav>
+  </header>
+  <main>
+<section class="lesson-head">
+  <span class="eyebrow">LEARN THROUGH PLAY</span>
+  <h1>Match the letters</h1>
+  <p>Drag a Shan letter to its sound. On a phone or keyboard, select a letter and then its matching sound.</p>
+</section>
+<section class="panel">
+  <div class="section-heading">
+    <h2>Drag and Drop Game</h2>
+    <span id="gameScore">0 / 5 matched</span>
+  </div>
+  <div id="gameLetters" class="game-letters" aria-label="Letters to match">
+  </div>
+  <div id="gameTargets" class="game-targets" aria-label="Sound targets">
+  </div>
+  <p id="gameFeedback" role="status" aria-live="polite">Select a letter to begin.</p>
+  <button id="newGame" class="primary">New round</button>
+</section>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </main>
+  <footer>
+    <span>Tai Learning · Shan Language Learning</span>
+    <a href="sources.html">Lesson references</a>
+  </footer>
+</body>
+</html>

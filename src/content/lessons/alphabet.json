@@ -1,0 +1,120 @@
+{
+  "title": "Alphabet",
+  "intro": "Listen to the teacher’s recordings. Roman labels are sound guides, not traditional letter names.",
+  "items": [
+    {
+      "id": "alphabet-0",
+      "text": "ၵ",
+      "label": "ka",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-1",
+      "text": "ၶ",
+      "label": "kha",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-2",
+      "text": "င",
+      "label": "nga",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-3",
+      "text": "ၸ",
+      "label": "tsa",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-4",
+      "text": "သ",
+      "label": "sa",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-5",
+      "text": "ၺ",
+      "label": "nya",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-6",
+      "text": "တ",
+      "label": "ta",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-7",
+      "text": "ထ",
+      "label": "tha",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-8",
+      "text": "ၼ",
+      "label": "na",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-9",
+      "text": "ပ",
+      "label": "pa",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-10",
+      "text": "ၽ",
+      "label": "pha",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-11",
+      "text": "ၾ",
+      "label": "fa",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-12",
+      "text": "မ",
+      "label": "ma",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-13",
+      "text": "ယ",
+      "label": "ya",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-14",
+      "text": "ရ",
+      "label": "ra",
+      "note": "Loanword consonant"
+    },
+    {
+      "id": "alphabet-15",
+      "text": "လ",
+      "label": "la",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-16",
+      "text": "ဝ",
+      "label": "wa",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-17",
+      "text": "ႁ",
+      "label": "ha",
+      "note": "Consonant"
+    },
+    {
+      "id": "alphabet-18",
+      "text": "ဢ",
+      "label": "a",
+      "note": "Consonant"
+    }
+  ]
+}

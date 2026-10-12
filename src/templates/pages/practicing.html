@@ -1,0 +1,71 @@
+<section class="lesson-head">
+  <span class="eyebrow">BUILD CONFIDENCE</span>
+  <h1>Practicing</h1>
+  <p>Learn to join letters into syllables, then test your character knowledge.</p>
+</section>
+<section class="panel spelling" aria-labelledby="spelling-title">
+  <span class="eyebrow">READ STEP BY STEP</span>
+  <h2 id="spelling-title">How to Spell</h2>
+  <p>Read the parts, join them, and say the syllable aloud. Listen to the teacher to check your reading.</p>
+  <div class="spelling-filters">
+    <label>Alphabet <select id="spellInitial"><option value="">Random letter</option></select></label>
+    <label>Ending <select id="spellFinal"><option value="all">Random ending</option><option value="finals">Final consonants only</option><option value="">No final consonant</option></select></label>
+    <label>Vowel <select id="spellVowel"><option value="all">Random vowel</option></select></label>
+    <label>Tone <select id="spellTone"><option value="all">Random tone</option></select></label>
+  </div>
+  <div id="spellParts" class="spelling-parts" aria-label="Syllable parts"></div>
+  <form id="spellForm" class="spelling-answer">
+    <label for="spellAnswer">Join the parts</label>
+    <input id="spellAnswer" class="shan" lang="shn" autocomplete="off" placeholder="Type the syllable" aria-label="Your Shan spelling">
+    <div class="spelling-answer-actions">
+      <button type="submit" class="primary">Check spelling</button>
+      <button type="button" id="spellReveal" class="secondary">Show syllable</button>
+    </div>
+  </form>
+  <p id="spellFeedback" role="status" aria-live="polite"></p>
+  <div id="spellResult" hidden>
+    <div id="spellSyllable" class="shan quiz-glyph" lang="shn"></div>
+    <p id="spellReading"></p>
+  </div>
+  <div class="spelling-actions">
+    <button type="button" id="spellListen" class="primary">Listen to syllable</button>
+    <button type="button" id="spellStop" class="secondary">Stop</button>
+    <button type="button" id="spellNext" class="secondary">Next random syllable</button>
+  </div>
+  <label class="spelling-recorded"><input type="checkbox" id="spellRecorded">Only syllables with recordings</label>
+  <p id="spellAudioState" class="small" role="status"></p>
+  <div class="spelling-examples">
+    <p>Try these examples</p>
+    <div class="spelling-example-buttons">
+    <button type="button" class="secondary shan" lang="shn" id="spellExampleKi">ၵ + ီ + ႈ</button>
+    <button type="button" class="secondary shan" lang="shn" id="spellExampleMoe">မ + ိူၼ် + ႈ</button>
+    <button type="button" class="secondary shan" lang="shn" id="spellExampleSoe">သ + ိူၼ် + ႈ</button>
+    </div>
+  </div>
+  <p class="small">These are spelling exercises; some combinations are not everyday words. Vowels change spelling before final consonants. Endings ပ်, တ် and ၵ် practise four marked tones. <a href="https://r12a.github.io/scripts/mymr/shn.html">Spelling reference</a>.</p>
+</section>
+<section class="panel quiz">
+  <h2>Character quiz</h2>
+  <div class="section-heading">
+    <label>Topic <select id="quizTopic">
+        <option value="alphabet">Alphabet</option>
+        <option value="number">Numbers</option>
+        <option value="vowels">Vowels</option>
+        <option value="tone">Tones</option>
+      </select>
+    </label>
+    <span id="quizProgress">
+    </span>
+  </div>
+  <progress id="quizBar" max="10" value="0" aria-label="Quiz progress">
+  </progress>
+  <h2 id="quizPrompt">Which label matches this character?</h2>
+  <div id="quizGlyph" class="shan quiz-glyph" lang="shn">
+  </div>
+  <div id="quizOptions" class="options">
+  </div>
+  <p id="quizFeedback" role="status" aria-live="polite">
+  </p>
+  <button class="primary" id="nextQuestion" hidden>Next question</button>
+  <button class="secondary" id="restartQuiz">Restart</button>
+</section>

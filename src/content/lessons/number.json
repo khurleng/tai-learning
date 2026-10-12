@@ -1,0 +1,66 @@
+{
+  "title": "Number",
+  "intro": "Explore Shan digits used in Myanmar, then try typing a number below.",
+  "items": [
+    {
+      "id": "number-0",
+      "text": "႐",
+      "label": "0",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-1",
+      "text": "႑",
+      "label": "1",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-2",
+      "text": "႒",
+      "label": "2",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-3",
+      "text": "႓",
+      "label": "3",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-4",
+      "text": "႔",
+      "label": "4",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-5",
+      "text": "႕",
+      "label": "5",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-6",
+      "text": "႖",
+      "label": "6",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-7",
+      "text": "႗",
+      "label": "7",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-8",
+      "text": "႘",
+      "label": "8",
+      "note": "Shan digit"
+    },
+    {
+      "id": "number-9",
+      "text": "႙",
+      "label": "9",
+      "note": "Shan digit"
+    }
+  ]
+}

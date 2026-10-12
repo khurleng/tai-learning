@@ -1,0 +1,75 @@
+{
+  "title": "Medial Clusters",
+  "intro": "Select ႂ, ျ or ြ to explore medial clusters and their syllable examples.",
+  "items": [
+    {
+      "id": "medial-clusters-0",
+      "text": "ႂ",
+      "label": "Medial -w-",
+      "note": "Medial wa joins an initial consonant to a w sound. Select the sign to see examples.",
+      "detail": {
+        "slug": "medial-wa",
+        "title": "Medial ႂ - -w-",
+        "intro": "Combine the initial consonant with ႂ, then add the vowel. These examples practise spelling without tone marks.",
+        "items": [
+          {
+            "id": "medial-clusters-1",
+            "text": "ၵႂႃ",
+            "label": "kwaa",
+            "note": "Spelling practice: ၵ + ႂ + ႃ. Read the consonant and medial together before the vowel."
+          },
+          {
+            "id": "medial-clusters-2",
+            "text": "ၶႂႃ",
+            "label": "khwaa",
+            "note": "Spelling practice: ၶ + ႂ + ႃ. Compare the aspirated initial kh with k in ၵႂႃ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "medial-clusters-3",
+      "text": "ျ",
+      "label": "Medial -y-",
+      "note": "Medial ya represents a y /j/ sound in clusters, mostly in loanwords. Select the sign to see examples.",
+      "detail": {
+        "slug": "medial-ya",
+        "title": "Medial ျ - -y-",
+        "intro": "Combine the initial consonant with ျ, then add the vowel. This medial is mostly used in loanwords. The example practises spelling without tone marks.",
+        "items": [
+          {
+            "id": "medial-clusters-4",
+            "text": "ၵျႃ",
+            "label": "kyaa",
+            "note": "Spelling practice: ၵ + ျ + ႃ. Compare the medial y sign with the medial w sign in ၵႂႃ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "medial-clusters-5",
+      "text": "ြ",
+      "label": "Medial -r-",
+      "note": "Medial ra represents an r sound in clusters, mostly in loanwords. Select the sign to see examples.",
+      "detail": {
+        "slug": "medial-ra",
+        "title": "Medial ြ - -r-",
+        "intro": "Combine the initial consonant with ြ, then add the vowel. In Shan this medial represents r and is mostly used in loanwords. These examples practise spelling without tone marks.",
+        "items": [
+          {
+            "id": "medial-clusters-6",
+            "text": "ၵြႃ",
+            "label": "kraa",
+            "note": "Spelling practice: ၵ + ြ + ႃ. Compare with ၵႂႃ and ၵျႃ."
+          },
+          {
+            "id": "medial-ra-1",
+            "text": "တြႃ",
+            "label": "traa",
+            "note": "Spelling practice: တ + ြ + ႃ. Read the initial t and medial r together before the vowel."
+          }
+        ]
+      }
+    }
+  ]
+}

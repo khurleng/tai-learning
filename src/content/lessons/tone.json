@@ -1,0 +1,42 @@
+{
+  "title": "Tone",
+  "intro": "Six tone patterns on the same syllable. The sixth is associated with Northern Shan.",
+  "items": [
+    {
+      "id": "tone-0",
+      "text": "ဢႃ",
+      "label": "Rising",
+      "note": "Tone mark: No mark"
+    },
+    {
+      "id": "tone-1",
+      "text": "ဢႃႇ",
+      "label": "Low",
+      "note": "Tone mark: ႇ"
+    },
+    {
+      "id": "tone-2",
+      "text": "ဢႃႈ",
+      "label": "Mid-falling",
+      "note": "Tone mark: ႈ"
+    },
+    {
+      "id": "tone-3",
+      "text": "ဢႃး",
+      "label": "High",
+      "note": "Tone mark: း"
+    },
+    {
+      "id": "tone-4",
+      "text": "ဢႃႉ",
+      "label": "High-falling, creaky",
+      "note": "Tone mark: ႉ"
+    },
+    {
+      "id": "tone-5",
+      "text": "ဢႃႊ",
+      "label": "Emphatic",
+      "note": "Tone mark: ႊ"
+    }
+  ]
+}

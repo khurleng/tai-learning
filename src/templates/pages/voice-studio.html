@@ -1,0 +1,31 @@
+<section class="lesson-head">
+  <span class="eyebrow">TEACHER WORKSPACE</span>
+  <h1>Your voice, every lesson.</h1>
+  <p>Add your audio files or record a clip for each item. Preview your sounds, export voices.js, and replace that file in your website folder.</p>
+</section>
+<div class="notice">Edits are a local draft only. Visitors cannot change your server files. Export and upload voices.js to publish recordings. No database is used.</div>
+<div class="lesson-tools">
+  <label>Lesson <select id="studioTopic">
+    </select>
+  </label>
+  <button id="exportVoices" class="primary">Save voices.js</button>
+  <button id="importVoices" class="secondary">Import saved voices.js</button>
+  <span id="clipCount">
+  </span>
+</div>
+<div class="lesson-tools">
+  <input id="studioSearch" type="search" placeholder="Find a syllable or spelling part…" aria-label="Search recordings">
+  <button type="button" id="studioPrevious" class="secondary">Previous</button>
+  <span id="studioPage" role="status"></span>
+  <button type="button" id="studioNext" class="secondary">Next</button>
+</div>
+<div id="studioGrid" class="studio-grid">
+</div>
+<input id="clipFile" type="file" accept="audio/*" hidden>
+<input id="voiceFile" type="file" accept=".js,.json" hidden>
+<dialog id="recordDialog">
+  <h2 id="recordTitle">Record a sound</h2>
+  <p id="recordMessage">Waiting for microphone…</p>
+  <button id="finishRecord" class="primary" disabled>Stop & keep</button>
+  <button id="cancelRecord" class="secondary">Cancel</button>
+</dialog>

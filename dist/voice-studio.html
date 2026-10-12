@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Voice Studio · Tai Learning</title>
+  <meta name="description" content="Learn Shan letters, vowels, final consonants, medial clusters, tones, numbers and everyday greetings.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Padauk:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="lessons.js" defer></script>
+  <script src="voices.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body data-page="voice-studio">
+  <header>
+    <div class="topbar">
+      <a class="brand" href="index.html">
+        <span class="mark" aria-hidden="true">◈</span>Tai Learning
+      </a>
+      <span class="shan wordmark" lang="shn">လိၵ်ႈတႆး</span>
+      <button type="button" class="menu-button" aria-expanded="false" aria-controls="navigation">Topics</button>
+    </div>
+    <nav id="navigation" aria-label="Learning topics">
+      <a href="index.html" data-nav="index">Home</a>
+      <a href="alphabet.html" data-nav="alphabet">Alphabet</a>
+      <a href="vowels.html" data-nav="vowels">Vowels</a>
+      <a href="final-consonants.html" data-nav="final-consonants">Final Consonants</a>
+      <a href="medial-clusters.html" data-nav="medial-clusters">Medial Clusters</a>
+      <a href="tone.html" data-nav="tone">Tone</a>
+      <a href="number.html" data-nav="number">Number</a>
+      <a href="practicing.html" data-nav="practicing">Practicing</a>
+      <a href="conversation.html" data-nav="conversation">Conversation</a>
+      <a href="drag-and-drop.html" data-nav="drag-and-drop">Drag and Drop Game</a>
+    </nav>
+  </header>
+  <main>
+<section class="lesson-head">
+  <span class="eyebrow">TEACHER WORKSPACE</span>
+  <h1>Your voice, every lesson.</h1>
+  <p>Add your audio files or record a clip for each item. Preview your sounds, export voices.js, and replace that file in your website folder.</p>
+</section>
+<div class="notice">Edits are a local draft only. Visitors cannot change your server files. Export and upload voices.js to publish recordings. No database is used.</div>
+<div class="lesson-tools">
+  <label>Lesson <select id="studioTopic">
+    </select>
+  </label>
+  <button id="exportVoices" class="primary">Save voices.js</button>
+  <button id="importVoices" class="secondary">Import saved voices.js</button>
+  <span id="clipCount">
+  </span>
+</div>
+<div class="lesson-tools">
+  <input id="studioSearch" type="search" placeholder="Find a syllable or spelling part…" aria-label="Search recordings">
+  <button type="button" id="studioPrevious" class="secondary">Previous</button>
+  <span id="studioPage" role="status"></span>
+  <button type="button" id="studioNext" class="secondary">Next</button>
+</div>
+<div id="studioGrid" class="studio-grid">
+</div>
+<input id="clipFile" type="file" accept="audio/*" hidden>
+<input id="voiceFile" type="file" accept=".js,.json" hidden>
+<dialog id="recordDialog">
+  <h2 id="recordTitle">Record a sound</h2>
+  <p id="recordMessage">Waiting for microphone…</p>
+  <button id="finishRecord" class="primary" disabled>Stop & keep</button>
+  <button id="cancelRecord" class="secondary">Cancel</button>
+</dialog>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </main>
+  <footer>
+    <span>Tai Learning · Shan Language Learning</span>
+    <a href="sources.html">Lesson references</a>
+  </footer>
+</body>
+</html>

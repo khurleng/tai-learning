@@ -1,0 +1,18 @@
+{
+  "title": "Conversation",
+  "intro": "Listen and repeat these everyday expressions. Try the short greeting exchange below.",
+  "items": [
+    {
+      "id": "conversation-0",
+      "text": "မႂ်ႇသုင်ၶႃႈ",
+      "label": "Hello",
+      "note": "màue sǔng · Greet someone"
+    },
+    {
+      "id": "conversation-1",
+      "text": "ၶွပ်ႈၸႂ်",
+      "label": "Thank you",
+      "note": "khop tsai · Express gratitude"
+    }
+  ]
+}

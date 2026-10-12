@@ -1,0 +1,116 @@
+{
+  "title": "Vowels",
+  "intro": "Examples use <span class=\"shan\" lang=\"shn\">ၵ</span> (ka) to show vowels in syllables. Vowel spelling can change before a final consonant. Select ႆ or ႂ် to see their vowel examples.",
+  "items": [
+    {
+      "id": "vowels-0",
+      "text": "ၵ",
+      "label": "a",
+      "note": "Inherent vowel /a/"
+    },
+    {
+      "id": "vowels-1",
+      "text": "ဢႃ",
+      "label": "aa",
+      "note": "Long a /aː/"
+    },
+    {
+      "id": "vowels-3",
+      "text": "ဢီ",
+      "label": "ii",
+      "note": "Long i /iː/"
+    },
+    {
+      "id": "vowels-4",
+      "text": "ဢေ",
+      "label": "e",
+      "note": "Final e /eː/"
+    },
+    {
+      "id": "vowels-5",
+      "text": "ဢႄ",
+      "label": "ae",
+      "note": "Final ae /ɛː/"
+    },
+    {
+      "id": "vowels-7",
+      "text": "ဢူ",
+      "label": "uu",
+      "note": "Long u /uː/"
+    },
+    {
+      "id": "vowels-8",
+      "text": "ဢူဝ်",
+      "label": "o",
+      "note": "Final o /oː/"
+    },
+    {
+      "id": "vowels-9",
+      "text": "ဢေႃ",
+      "label": "aw",
+      "note": "Open o /ɔː/"
+    },
+    {
+      "id": "vowels-10",
+      "text": "ဢိုဝ်",
+      "label": "eu",
+      "note": "Unrounded u /ɯː/"
+    },
+    {
+      "id": "vowels-11",
+      "text": "ဢိူဝ်",
+      "label": "oe",
+      "note": "Back unrounded vowel /ɤː/"
+    },
+    {
+      "id": "final-consonants-7",
+      "text": "ႆ",
+      "label": "ai",
+      "note": "Vowel sign in ai, aai and awi spellings. Select to see examples.",
+      "detail": {
+        "slug": "final-ai",
+        "title": "Vowel ႆ",
+        "intro": "ႆ is a vowel sign called Shan final y. It forms ai and combines with other vowel signs to form aai and awi. Read it together with the initial letter and any other vowel sign.",
+        "items": [
+          {
+            "id": "final-ai-0",
+            "text": "ဢႆ",
+            "label": "Aai",
+            "note": "ဢ + ႆ · ai vowel ending"
+          },
+          {
+            "id": "final-ai-1",
+            "text": "ဢၢႆ",
+            "label": "Aaai",
+            "note": "ဢ + ၢ ႆ · long aai vowel ending"
+          },
+          {
+            "id": "final-ai-2",
+            "text": "ဢွႆ",
+            "label": "Aawi",
+            "note": "ဢ + ွ ႆ · awi vowel ending"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vowels-au",
+      "text": "ႂ်",
+      "label": "aue",
+      "note": "Vowel combination ႂ်. Select to see a syllable example.",
+      "detail": {
+        "slug": "vowel-aue",
+        "title": "Vowel ႂ်",
+        "intro": "Read ႂ် together with the initial consonant as a vowel ending. Compare this combination with the medial ႂ used at the start of a syllable.",
+        "items": [
+          {
+            "id": "vowel-aue-0",
+            "text": "ဢႂ်",
+            "label": "Aue",
+            "note": "ဢ + ႂ် - vowel spelling practice without a tone mark."
+          }
+        ]
+      }
+    }
+  ]
+}

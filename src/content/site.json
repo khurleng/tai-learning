@@ -1,0 +1,68 @@
+{
+  "name": "Tai Learning",
+  "wordmark": "လိၵ်ႈတႆး",
+  "description": "Learn Shan letters, vowels, final consonants, medial clusters, tones, numbers and everyday greetings.",
+  "topics": [
+    {
+      "slug": "alphabet",
+      "title": "Alphabet",
+      "description": "19 common letters",
+      "glyph": "ၵ"
+    },
+    {
+      "slug": "vowels",
+      "title": "Vowels",
+      "description": "Build syllables",
+      "glyph": "ဢႃ"
+    },
+    {
+      "slug": "final-consonants",
+      "title": "Final Consonants",
+      "description": "Learn syllable endings",
+      "glyph": "ၵ်"
+    },
+    {
+      "slug": "medial-clusters",
+      "title": "Medial Clusters",
+      "description": "Combine consonant sounds",
+      "glyph": "ၵႂ"
+    },
+    {
+      "slug": "tone",
+      "title": "Tone",
+      "description": "Read pitch patterns",
+      "glyph": "ႇ"
+    },
+    {
+      "slug": "number",
+      "title": "Number",
+      "description": "Count from 0 to 9",
+      "glyph": "႑"
+    },
+    {
+      "slug": "practicing",
+      "title": "Practicing",
+      "description": "Test your knowledge",
+      "glyph": "✎"
+    },
+    {
+      "slug": "conversation",
+      "title": "Conversation",
+      "description": "Everyday greetings",
+      "glyph": "☏"
+    },
+    {
+      "slug": "drag-and-drop",
+      "title": "Drag and Drop Game",
+      "description": "Match letters and sounds",
+      "glyph": "▦"
+    }
+  ],
+  "pages": {
+    "drag-and-drop": "Drag and Drop Game",
+    "index": "Home",
+    "practicing": "Practicing",
+    "sources": "Lesson references",
+    "voice-studio": "Voice Studio"
+  }
+}

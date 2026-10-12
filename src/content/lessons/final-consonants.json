@@ -1,0 +1,524 @@
+{
+  "title": "Final Consonants",
+  "intro": "Explore final consonants and vowel endings. The mark ် closes a consonant syllable; ၺ် appears in vowel combinations ending with an i glide, and ဝ် forms endings with a w glide. Select a letter or sign to see its explanation and syllable examples.",
+  "items": [
+    {
+      "id": "final-consonants-0",
+      "text": "မ်",
+      "label": "-m",
+      "note": "Final m /m/",
+      "detail": {
+        "slug": "final-m",
+        "title": "Final -m",
+        "intro": "မ် is မ with the final mark ်. It closes a syllable with /m/, made with the lips together. Compare the endings below as the vowel changes.",
+        "items": [
+          {
+            "id": "final-m-0",
+            "text": "ဢမ်",
+            "label": "Aam",
+            "note": "ဢ + မ် · a vowel with final -m"
+          },
+          {
+            "id": "final-m-1",
+            "text": "ဢၢမ်",
+            "label": "Aaam",
+            "note": "ဢ + ၢ မ် · long aa vowel with final -m"
+          },
+          {
+            "id": "final-m-2",
+            "text": "ဢိမ်",
+            "label": "Aim",
+            "note": "ဢ + ိ မ် · i vowel with final -m"
+          },
+          {
+            "id": "final-m-3",
+            "text": "ဢဵမ်",
+            "label": "Aem",
+            "note": "ဢ + ဵ မ် · e vowel with final -m"
+          },
+          {
+            "id": "final-m-4",
+            "text": "ဢႅမ်",
+            "label": "Aaem",
+            "note": "ဢ + ႅ မ် · ae vowel with final -m"
+          },
+          {
+            "id": "final-m-5",
+            "text": "ဢုမ်",
+            "label": "Aum",
+            "note": "ဢ + ု မ် · u vowel with final -m"
+          },
+          {
+            "id": "final-m-6",
+            "text": "ဢူမ်",
+            "label": "Auum",
+            "note": "ဢ + ူ မ် · o vowel with final -m"
+          },
+          {
+            "id": "final-m-7",
+            "text": "ဢွမ်",
+            "label": "Aawm",
+            "note": "ဢ + ွ မ် · aw vowel with final -m"
+          },
+          {
+            "id": "final-m-8",
+            "text": "ဢိုမ်",
+            "label": "Aeum",
+            "note": "ဢ + ို မ် · eu vowel with final -m"
+          },
+          {
+            "id": "final-m-9",
+            "text": "ဢိူမ်",
+            "label": "Aoem",
+            "note": "ဢ + ိူ မ် · oe vowel with final -m"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-1",
+      "text": "ၼ်",
+      "label": "-n",
+      "note": "Final n /n/",
+      "detail": {
+        "slug": "final-n",
+        "title": "Final -n",
+        "intro": "ၼ် is ၼ with the final mark ်. It closes a syllable with /n/, with the tongue touching just behind the upper teeth. Keep the ending the same while reading the different vowels.",
+        "items": [
+          {
+            "id": "final-n-0",
+            "text": "ဢၼ်",
+            "label": "Aan",
+            "note": "ဢ + ၼ် · a vowel with final -n"
+          },
+          {
+            "id": "final-n-1",
+            "text": "ဢၢၼ်",
+            "label": "Aaan",
+            "note": "ဢ + ၢ ၼ် · long aa vowel with final -n"
+          },
+          {
+            "id": "final-n-2",
+            "text": "ဢိၼ်",
+            "label": "Ain",
+            "note": "ဢ + ိ ၼ် · i vowel with final -n"
+          },
+          {
+            "id": "final-n-3",
+            "text": "ဢဵၼ်",
+            "label": "Aen",
+            "note": "ဢ + ဵ ၼ် · e vowel with final -n"
+          },
+          {
+            "id": "final-n-4",
+            "text": "ဢႅၼ်",
+            "label": "Aaen",
+            "note": "ဢ + ႅ ၼ် · ae vowel with final -n"
+          },
+          {
+            "id": "final-n-5",
+            "text": "ဢုၼ်",
+            "label": "Aun",
+            "note": "ဢ + ု ၼ် · u vowel with final -n"
+          },
+          {
+            "id": "final-n-6",
+            "text": "ဢူၼ်",
+            "label": "Auun",
+            "note": "ဢ + ူ ၼ် · o vowel with final -n"
+          },
+          {
+            "id": "final-n-7",
+            "text": "ဢွၼ်",
+            "label": "Aawn",
+            "note": "ဢ + ွ ၼ် · aw vowel with final -n"
+          },
+          {
+            "id": "final-n-8",
+            "text": "ဢိုၼ်",
+            "label": "Aeun",
+            "note": "ဢ + ို ၼ် · eu vowel with final -n"
+          },
+          {
+            "id": "final-n-9",
+            "text": "ဢိူၼ်",
+            "label": "Aoen",
+            "note": "ဢ + ိူ ၼ် · oe vowel with final -n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-2",
+      "text": "င်",
+      "label": "-ng",
+      "note": "Final ng /ŋ/",
+      "detail": {
+        "slug": "final-ng",
+        "title": "Final -ng",
+        "intro": "င် is င with the final mark ်. It closes a syllable with /ŋ/, like the final sound of English sing. The ng label represents one sound; do not add a separate g sound.",
+        "items": [
+          {
+            "id": "final-ng-0",
+            "text": "ဢင်",
+            "label": "Aang",
+            "note": "ဢ + င် · a vowel with final -ng"
+          },
+          {
+            "id": "final-ng-1",
+            "text": "ဢၢင်",
+            "label": "Aaang",
+            "note": "ဢ + ၢ င် · long aa vowel with final -ng"
+          },
+          {
+            "id": "final-ng-2",
+            "text": "ဢိင်",
+            "label": "Aing",
+            "note": "ဢ + ိ င် · i vowel with final -ng"
+          },
+          {
+            "id": "final-ng-3",
+            "text": "ဢဵင်",
+            "label": "Aeng",
+            "note": "ဢ + ဵ င် · e vowel with final -ng"
+          },
+          {
+            "id": "final-ng-4",
+            "text": "ဢႅင်",
+            "label": "Aaeng",
+            "note": "ဢ + ႅ င် · ae vowel with final -ng"
+          },
+          {
+            "id": "final-ng-5",
+            "text": "ဢုင်",
+            "label": "Aung",
+            "note": "ဢ + ု င် · u vowel with final -ng"
+          },
+          {
+            "id": "final-ng-6",
+            "text": "ဢူင်",
+            "label": "Auung",
+            "note": "ဢ + ူ င် · o vowel with final -ng"
+          },
+          {
+            "id": "final-ng-7",
+            "text": "ဢွင်",
+            "label": "Aawng",
+            "note": "ဢ + ွ င် · aw vowel with final -ng"
+          },
+          {
+            "id": "final-ng-8",
+            "text": "ဢိုင်",
+            "label": "Aeung",
+            "note": "ဢ + ို င် · eu vowel with final -ng"
+          },
+          {
+            "id": "final-ng-9",
+            "text": "ဢိူင်",
+            "label": "Aoeng",
+            "note": "ဢ + ိူ င် · oe vowel with final -ng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-3",
+      "text": "ပ်",
+      "label": "-p",
+      "note": "Final p /p/",
+      "detail": {
+        "slug": "final-p",
+        "title": "Final -p",
+        "intro": "ပ် is ပ with the final mark ်. It closes a syllable with /p/. Close the lips at the end of the syllable without adding another vowel.",
+        "items": [
+          {
+            "id": "final-p-0",
+            "text": "ဢပ်",
+            "label": "Aap",
+            "note": "ဢ + ပ် · a vowel with final -p"
+          },
+          {
+            "id": "final-p-1",
+            "text": "ဢၢပ်",
+            "label": "Aaap",
+            "note": "ဢ + ၢ ပ် · long aa vowel with final -p"
+          },
+          {
+            "id": "final-p-2",
+            "text": "ဢိပ်",
+            "label": "Aip",
+            "note": "ဢ + ိ ပ် · i vowel with final -p"
+          },
+          {
+            "id": "final-p-3",
+            "text": "ဢဵပ်",
+            "label": "Aep",
+            "note": "ဢ + ဵ ပ် · e vowel with final -p"
+          },
+          {
+            "id": "final-p-4",
+            "text": "ဢႅပ်",
+            "label": "Aaep",
+            "note": "ဢ + ႅ ပ် · ae vowel with final -p"
+          },
+          {
+            "id": "final-p-5",
+            "text": "ဢုပ်",
+            "label": "Aup",
+            "note": "ဢ + ု ပ် · u vowel with final -p"
+          },
+          {
+            "id": "final-p-6",
+            "text": "ဢူပ်",
+            "label": "Auup",
+            "note": "ဢ + ူ ပ် · o vowel with final -p"
+          },
+          {
+            "id": "final-p-7",
+            "text": "ဢွပ်",
+            "label": "Aawp",
+            "note": "ဢ + ွ ပ် · aw vowel with final -p"
+          },
+          {
+            "id": "final-p-8",
+            "text": "ဢိုပ်",
+            "label": "Aeup",
+            "note": "ဢ + ို ပ် · eu vowel with final -p"
+          },
+          {
+            "id": "final-p-9",
+            "text": "ဢိူပ်",
+            "label": "Aoep",
+            "note": "ဢ + ိူ ပ် · oe vowel with final -p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-4",
+      "text": "တ်",
+      "label": "-t",
+      "note": "Final t /t/",
+      "detail": {
+        "slug": "final-t",
+        "title": "Final -t",
+        "intro": "တ် is တ with the final mark ်. It closes a syllable with /t/. End with the tongue touching just behind the upper teeth, without adding another vowel.",
+        "items": [
+          {
+            "id": "final-t-0",
+            "text": "ဢတ်",
+            "label": "Aat",
+            "note": "ဢ + တ် · a vowel with final -t"
+          },
+          {
+            "id": "final-t-1",
+            "text": "ဢၢတ်",
+            "label": "Aaat",
+            "note": "ဢ + ၢ တ် · long aa vowel with final -t"
+          },
+          {
+            "id": "final-t-2",
+            "text": "ဢိတ်",
+            "label": "Ait",
+            "note": "ဢ + ိ တ် · i vowel with final -t"
+          },
+          {
+            "id": "final-t-3",
+            "text": "ဢဵတ်",
+            "label": "Aet",
+            "note": "ဢ + ဵ တ် · e vowel with final -t"
+          },
+          {
+            "id": "final-t-4",
+            "text": "ဢႅတ်",
+            "label": "Aaet",
+            "note": "ဢ + ႅ တ် · ae vowel with final -t"
+          },
+          {
+            "id": "final-t-5",
+            "text": "ဢုတ်",
+            "label": "Aut",
+            "note": "ဢ + ု တ် · u vowel with final -t"
+          },
+          {
+            "id": "final-t-6",
+            "text": "ဢူတ်",
+            "label": "Auut",
+            "note": "ဢ + ူ တ် · o vowel with final -t"
+          },
+          {
+            "id": "final-t-7",
+            "text": "ဢွတ်",
+            "label": "Aawt",
+            "note": "ဢ + ွ တ် · aw vowel with final -t"
+          },
+          {
+            "id": "final-t-8",
+            "text": "ဢိုတ်",
+            "label": "Aeut",
+            "note": "ဢ + ို တ် · eu vowel with final -t"
+          },
+          {
+            "id": "final-t-9",
+            "text": "ဢိူတ်",
+            "label": "Aoet",
+            "note": "ဢ + ိူ တ် · oe vowel with final -t"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-5",
+      "text": "ၵ်",
+      "label": "-k",
+      "note": "Final k /k/",
+      "detail": {
+        "slug": "final-k",
+        "title": "Final -k",
+        "intro": "ၵ် is ၵ with the final mark ်. It closes a syllable with /k/. Stop the sound at the back of the mouth without adding another vowel.",
+        "items": [
+          {
+            "id": "final-k-0",
+            "text": "ဢၵ်",
+            "label": "Aak",
+            "note": "ဢ + ၵ် · a vowel with final -k"
+          },
+          {
+            "id": "final-k-1",
+            "text": "ဢၢၵ်",
+            "label": "Aaak",
+            "note": "ဢ + ၢ ၵ် · long aa vowel with final -k"
+          },
+          {
+            "id": "final-k-2",
+            "text": "ဢိၵ်",
+            "label": "Aik",
+            "note": "ဢ + ိ ၵ် · i vowel with final -k"
+          },
+          {
+            "id": "final-k-3",
+            "text": "ဢဵၵ်",
+            "label": "Aek",
+            "note": "ဢ + ဵ ၵ် · e vowel with final -k"
+          },
+          {
+            "id": "final-k-4",
+            "text": "ဢႅၵ်",
+            "label": "Aaek",
+            "note": "ဢ + ႅ ၵ် · ae vowel with final -k"
+          },
+          {
+            "id": "final-k-5",
+            "text": "ဢုၵ်",
+            "label": "Auk",
+            "note": "ဢ + ု ၵ် · u vowel with final -k"
+          },
+          {
+            "id": "final-k-6",
+            "text": "ဢူၵ်",
+            "label": "Auuk",
+            "note": "ဢ + ူ ၵ် · o vowel with final -k"
+          },
+          {
+            "id": "final-k-7",
+            "text": "ဢွၵ်",
+            "label": "Aawk",
+            "note": "ဢ + ွ ၵ် · aw vowel with final -k"
+          },
+          {
+            "id": "final-k-8",
+            "text": "ဢိုၵ်",
+            "label": "Aeuk",
+            "note": "ဢ + ို ၵ် · eu vowel with final -k"
+          },
+          {
+            "id": "final-k-9",
+            "text": "ဢိူၵ်",
+            "label": "Aoek",
+            "note": "ဢ + ိူ ၵ် · oe vowel with final -k"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-6",
+      "text": "ၺ်",
+      "label": "-y (ၺ်)",
+      "note": "Final i glide in ui, oi, eui and oei spellings",
+      "detail": {
+        "slug": "final-ny",
+        "title": "Final ၺ်",
+        "intro": "ၺ် combines with vowel signs to spell an ending that glides toward i. Compare the four vowel combinations below. The final spelling is different from the initial consonant ၺ (nya).",
+        "items": [
+          {
+            "id": "final-ny-0",
+            "text": "ဢုၺ်",
+            "label": "Aui",
+            "note": "ဢ + ု ၺ် · ui vowel ending"
+          },
+          {
+            "id": "final-ny-1",
+            "text": "ဢူၺ်",
+            "label": "Aoi",
+            "note": "ဢ + ူ ၺ် · oi vowel ending"
+          },
+          {
+            "id": "final-ny-2",
+            "text": "ဢိုၺ်",
+            "label": "Aeui",
+            "note": "ဢ + ို ၺ် · eui vowel ending"
+          },
+          {
+            "id": "final-ny-3",
+            "text": "ဢိူၺ်",
+            "label": "Aoei",
+            "note": "ဢ + ိူ ၺ် · oei vowel ending"
+          }
+        ]
+      }
+    },
+    {
+      "id": "final-consonants-8",
+      "text": "ဝ်",
+      "label": "-w",
+      "note": "Final w glide in aw, aaw, iw, ew and aew spellings",
+      "detail": {
+        "slug": "final-w",
+        "title": "Final ဝ်",
+        "intro": "ဝ် is ဝ with the final mark ်. It combines with the preceding vowel to form an ending that glides toward w. Compare the five combinations below and read each as one syllable.",
+        "items": [
+          {
+            "id": "final-w-0",
+            "text": "ဢဝ်",
+            "label": "Aaw",
+            "note": "ဢ + ဝ် · aw vowel ending"
+          },
+          {
+            "id": "final-w-1",
+            "text": "ဢၢဝ်",
+            "label": "Aaaw",
+            "note": "ဢ + ၢ ဝ် · long aaw vowel ending"
+          },
+          {
+            "id": "final-w-2",
+            "text": "ဢိဝ်",
+            "label": "Aiw",
+            "note": "ဢ + ိ ဝ် · iw vowel ending"
+          },
+          {
+            "id": "final-w-3",
+            "text": "ဢဵဝ်",
+            "label": "Aew",
+            "note": "ဢ + ဵ ဝ် · ew vowel ending"
+          },
+          {
+            "id": "final-w-4",
+            "text": "ဢႅဝ်",
+            "label": "Aaew",
+            "note": "ဢ + ႅ ဝ် · aew vowel ending"
+          }
+        ]
+      }
+    }
+  ]
+}

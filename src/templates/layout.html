@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}} · {{site_name}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Padauk:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="lessons.js" defer></script>
+  <script src="voices.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body data-page="{{slug}}">
+  <header>
+    <div class="topbar">
+      <a class="brand" href="index.html">
+        <span class="mark" aria-hidden="true">◈</span>{{site_name}}
+      </a>
+      <span class="shan wordmark" lang="shn">{{wordmark}}</span>
+      <button type="button" class="menu-button" aria-expanded="false" aria-controls="navigation">Topics</button>
+    </div>
+    <nav id="navigation" aria-label="Learning topics">
+{{navigation}}
+    </nav>
+  </header>
+  <main>
+{{body}}
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </main>
+  <footer>
+    <span>{{site_name}} · Shan Language Learning</span>
+    <a href="sources.html">Lesson references</a>
+  </footer>
+</body>
+</html>
