@@ -675,8 +675,38 @@ window.SHAN_LESSONS = {
       "detail": {
         "slug": "final-ny",
         "title": "Final ၺ်",
-        "intro": "ၺ် combines with vowel signs to spell an ending that glides toward i. Compare the four vowel combinations below. The final spelling is different from the initial consonant ၺ (nya).",
+        "intro": "ၺ် combines with vowel signs to spell an ending that glides toward i. Compare the ten vowel combinations below. The final spelling is different from the initial consonant ၺ (nya).",
         "items": [
+          {
+            "id": "final-ny-4",
+            "text": "ဢၺ်",
+            "label": "Ai",
+            "note": "ဢ + ၺ် - vowel-ending spelling example"
+          },
+          {
+            "id": "final-ny-5",
+            "text": "ဢၢၺ်",
+            "label": "AAi",
+            "note": "ဢ + ၢၺ် - vowel-ending spelling example"
+          },
+          {
+            "id": "final-ny-6",
+            "text": "ဢိၺ်",
+            "label": "Aei",
+            "note": "ဢ + ိၺ် - vowel-ending spelling example"
+          },
+          {
+            "id": "final-ny-7",
+            "text": "ဢဵၺ်",
+            "label": "Aei",
+            "note": "ဢ + ဵၺ် - vowel-ending spelling example"
+          },
+          {
+            "id": "final-ny-8",
+            "text": "ဢႅၺ်",
+            "label": "EEi",
+            "note": "ဢ + ႅၺ် - vowel-ending spelling example"
+          },
           {
             "id": "final-ny-0",
             "text": "ဢုၺ်",
@@ -686,8 +716,14 @@ window.SHAN_LESSONS = {
           {
             "id": "final-ny-1",
             "text": "ဢူၺ်",
-            "label": "Aoi",
+            "label": "Auui",
             "note": "ဢ + ူ ၺ် · oi vowel ending"
+          },
+          {
+            "id": "final-ny-9",
+            "text": "ဢွၺ်",
+            "label": "Aoi",
+            "note": "ဢ + ွၺ် - vowel-ending spelling example"
           },
           {
             "id": "final-ny-2",
@@ -1335,6 +1371,36 @@ window.SHAN_LESSONS = {
   ],
   "final-ny": [
     {
+      "id": "final-ny-4",
+      "text": "ဢၺ်",
+      "label": "Ai",
+      "note": "ဢ + ၺ် - vowel-ending spelling example"
+    },
+    {
+      "id": "final-ny-5",
+      "text": "ဢၢၺ်",
+      "label": "AAi",
+      "note": "ဢ + ၢၺ် - vowel-ending spelling example"
+    },
+    {
+      "id": "final-ny-6",
+      "text": "ဢိၺ်",
+      "label": "Aei",
+      "note": "ဢ + ိၺ် - vowel-ending spelling example"
+    },
+    {
+      "id": "final-ny-7",
+      "text": "ဢဵၺ်",
+      "label": "Aei",
+      "note": "ဢ + ဵၺ် - vowel-ending spelling example"
+    },
+    {
+      "id": "final-ny-8",
+      "text": "ဢႅၺ်",
+      "label": "EEi",
+      "note": "ဢ + ႅၺ် - vowel-ending spelling example"
+    },
+    {
       "id": "final-ny-0",
       "text": "ဢုၺ်",
       "label": "Aui",
@@ -1343,8 +1409,14 @@ window.SHAN_LESSONS = {
     {
       "id": "final-ny-1",
       "text": "ဢူၺ်",
-      "label": "Aoi",
+      "label": "Auui",
       "note": "ဢ + ူ ၺ် · oi vowel ending"
+    },
+    {
+      "id": "final-ny-9",
+      "text": "ဢွၺ်",
+      "label": "Aoi",
+      "note": "ဢ + ွၺ် - vowel-ending spelling example"
     },
     {
       "id": "final-ny-2",
